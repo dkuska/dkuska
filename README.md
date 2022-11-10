@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Kuska, a Bachelor's CS student at University of Potsdam (Germany)
+- 👋 Hi, I’m David Kuska, a M.Sc Data Engineering student at Hasso Plattner Institute Potsdam (Germany)
 
 - 👀 I’m interested in Cellular Automata, Dynamical Systems, Generative Art, Data Science & Machine Learning 
 
